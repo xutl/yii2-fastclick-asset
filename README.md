@@ -9,8 +9,7 @@
 [![License](https://poser.pugx.org/xutl/yii2-fastclick-asset/license.svg)](https://packagist.org/packages/xutl/yii2-fastclick-asset)
 
 
-Installation
-------------
+## Installation
 
 Next steps will guide you through the process of installing yii2-admin using [composer](http://getcomposer.org/download/). Installation is a quick and easy three-step process.
 
@@ -28,6 +27,9 @@ or add
 
 to the `require` section of your composer.json.
 
+## Usage
+
+https://github.com/ftlabs/fastclick
 
 ## License
 

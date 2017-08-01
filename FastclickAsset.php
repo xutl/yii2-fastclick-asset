@@ -8,7 +8,11 @@ namespace xutl\fastclick;
 
 use yii\web\AssetBundle;
 
-class Asset extends AssetBundle
+/**
+ * Class FastclickAsset
+ * @package xutl\fastclick
+ */
+class FastclickAsset extends AssetBundle
 {
     /**
      * @inherit

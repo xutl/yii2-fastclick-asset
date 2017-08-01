@@ -13,12 +13,12 @@ class Asset extends AssetBundle
     /**
      * @inherit
      */
-    public $sourcePath = '@xutl/fastclick/assets';
+    public $sourcePath = '@bower/fastclick/lib';
 
     /**
      * @inherit
      */
-    public $css = [
-        'css/fmt.css',
+    public $js = [
+        'fastclick.js',
     ];
 }
